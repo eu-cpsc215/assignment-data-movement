@@ -1,4 +1,4 @@
-# Program 2 - Data Definition and Movement
+# Assignment - Data Definition and Movement
 
 This assignment focuses on defining variables and moving data into and between registers.
 
