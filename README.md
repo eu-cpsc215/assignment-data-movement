@@ -76,3 +76,7 @@ A detailed description of this behavior can be found in the [Intel 64 Architectu
 >8-bit and 16-bit operands generate an 8-bit or 16-bit result. The upper 56 bits or 48 bits (respectively) of the destination general-purpose register are not modified by the operation.
 
 This behavior can be leveraged when implementing section three of the requirements (register manipulation) for this assignment.
+
+## Submission
+
+Submit your `assignment.asm` file for grading.
